@@ -6,3 +6,4 @@ Let's write something funny here.
 
 And I can write some new information here:
 and I'll commit it
+Practice is interesting and *makes me feel good :)*
